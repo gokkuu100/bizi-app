@@ -147,4 +147,4 @@ function UpdateStock() {
   )
 }
 
-export default UpdateStock
+export default UpdateStock;
