@@ -9,9 +9,6 @@ import NavBar from './NavBar'
 import { Routes, Route, Switch } from "react-router-dom";
 import Home from './Home'
 import SignIn from './components/auth/SignIn'
-import SignUp from './components/auth/SignUp'
-import AuthDetails from './components/auth/AuthDetails'
-
 
 function App() {
   const [isAuthenticated, setIsAuthenticated] = useState(false);
