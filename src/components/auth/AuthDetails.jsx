@@ -32,3 +32,4 @@ function AuthDetails() {
 }
 
 export default AuthDetails
+
