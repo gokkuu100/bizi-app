@@ -2,6 +2,8 @@
 
 Small business enterprises have been facing an issue on tracking their business progress. These businesses tend to fail due to poor management. Owners of these businesses have to manually take and keep records of items in their business, this becomes time consuming and sometimes the documentation also gets lost in the way. With BiziTrack, business owners can now track their business in a more efficient way. 
 
+You can signin with : user: goku@gmail.com password: 000000, or sign up then sign in. 
+
 This project app is an inventory system application build to check on stock-keeping of small business enterprises. 
 
 # Usage
