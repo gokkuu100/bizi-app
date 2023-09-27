@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/bizi-track/static/css/main.b30d47ea.css",
+    "main.js": "/bizi-track/static/js/main.17366ecd.js",
+    "static/js/787.9b6708bf.chunk.js": "/bizi-track/static/js/787.9b6708bf.chunk.js",
+    "index.html": "/bizi-track/index.html",
+    "main.b30d47ea.css.map": "/bizi-track/static/css/main.b30d47ea.css.map",
+    "main.17366ecd.js.map": "/bizi-track/static/js/main.17366ecd.js.map",
+    "787.9b6708bf.chunk.js.map": "/bizi-track/static/js/787.9b6708bf.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b30d47ea.css",
+    "static/js/main.17366ecd.js"
+  ]
+}
